@@ -17,3 +17,7 @@ You'll need to have **Node.js (latest LTS version)** installed on your machine. 
    ```bash
    git clone https://github.com/nasbits/pingLogger.git
    cd pingLogger
+   ```
+   open a file manager, and double click on your platform's file to launch. i packaged linux, macos, windows
+
+   if you need help, shoot me an email at admin@nasbitsdesktop.com!
