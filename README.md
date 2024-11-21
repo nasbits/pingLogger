@@ -22,3 +22,5 @@ You'll need to have **Node.js (latest LTS version)** installed on your machine. 
    open a file manager, and double click on your platform's file to launch. i packaged linux, macos, windows
 
    if you need help, shoot me an email at admin@nasbitsdesktop.com!
+
+P.S. please open the package at the top of the hour/at a 10 of the hour for a more professional look.
