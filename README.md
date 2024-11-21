@@ -6,9 +6,9 @@ A simple application that logs ping results to a specified server at regular int
 - Logs ping results at set intervals.
 - Sends ping results to Discord webhooks.
 - Requires **Node.js (latest LTS version)**
-## Running From Source
+## Running
 
-If you prefer to run the application from source, you'll need to have **Node.js (latest LTS version)** installed on your machine. You can install it from [nodejs.org](https://nodejs.org/).
+You'll need to have **Node.js (latest LTS version)** installed on your machine. You can install it from [nodejs.org](https://nodejs.org/).
 
 ### Steps to run:
 
@@ -17,5 +17,3 @@ If you prefer to run the application from source, you'll need to have **Node.js 
    ```bash
    git clone https://github.com/nasbits/pingLogger.git
    cd pingLogger
-   
-   open a file manager, and double click on your platform's file to launch. i packaged linux, macos, windows
