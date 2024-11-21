@@ -15,6 +15,7 @@ You'll need to have **Node.js (latest LTS version)** installed on your machine. 
 1. Clone the repository:
 
    ```bash
+   cd ~/Downloads/
    git clone https://github.com/nasbits/pingLogger.git
    cd pingLogger
    ```
