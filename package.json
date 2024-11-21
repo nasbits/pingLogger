@@ -1,0 +1,19 @@
+{
+  "name": "pinglogger",
+  "version": "1.0.0",
+  "main": "pingLogger.js",
+  "bin": "pingLogger.js",
+  "scripts": {
+    "start": "node pingLogger.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Ping Logger Application",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^6.9.15"
+  }
+}

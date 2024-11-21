@@ -1,0 +1,10 @@
+{
+  "webhookUrls": [
+    "url1",
+    "url2"
+  ],
+  "sites": [
+    "https://example.com",
+    "https://examplesite.com"
+  ]
+}
